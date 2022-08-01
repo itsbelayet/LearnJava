@@ -21,7 +21,7 @@ public class TestAbstraction extends AbstractClass implements InterfaceClass {
         TestAbstraction ta=new TestAbstraction();
         ta.girl();
         ta.myId("Zakir");
-        ta.myId("Zakir",60);
+        ta.myId("Miru",57);
 
     }
 }

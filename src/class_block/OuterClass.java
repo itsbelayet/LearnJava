@@ -15,6 +15,7 @@ public class OuterClass {
         ic.innerClassMethod();
     }
 }
+
 class RunClass{
     public static void main(String[] args) {
         OuterClass oc=new OuterClass();

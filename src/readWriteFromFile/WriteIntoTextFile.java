@@ -9,13 +9,9 @@ import java.io.PrintWriter;
 public class WriteIntoTextFile {
 
     public static void main(String[] args) throws IOException {
-        // 1st Step
+
         File file=new File("Data/Out.txt");
-
-        // 2nd Step
         FileWriter fw=new FileWriter(file);
-
-        // 3rd Step
         PrintWriter pw=new PrintWriter(fw);
 
         // One approach
