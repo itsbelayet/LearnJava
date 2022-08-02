@@ -6,5 +6,8 @@ public class ReplaceString {
         String rname=name.replace("e","a");
         System.out.println(rname);
 
+//        String miru="Belayet";
+//        System.out.printf(miru.replace("e","o"));
+
     }
 }
